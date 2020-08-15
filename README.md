@@ -7,7 +7,8 @@ With that template, you can start coding instantly, that's cool no ? :blush:
 
 > Finding new ways to be lazy is probably the most productive thing you've done<br> A developer citation for sure 
 
-## Getting started
+
+## Getting started
 
 Install dependencies, there is nothing more.
 
@@ -21,7 +22,7 @@ You can verify if everything is working with `npm test` or `npm start`
 
 The template integrates some basic tools to develop efficiently
 
-#### Linter
+### Linter
 
 It is very important to respect rules when coding. 
 
@@ -29,11 +30,11 @@ I'm using [eslint](https://eslint.org/) with [airbnb rules](https://airbnb.io/ja
 
 Type `npm run lint` to show your error and `npm run lint:fix` to fix simple one.
 
-#### Prettier
+### Prettier
 
 To separate coding rules and codeStyle, I use a [prettier config](https://prettier.io/). It's a very cool tool to formatting your code like your want 
 
-#### Tests
+### Tests
 
 Test his code is essential, template integrated [Jest](https://jestjs.io/en/) test suites with typescript usage.
 
@@ -43,7 +44,7 @@ Type `npm run test` or `npm run test:watch` to use it.
 
 > Watching more is very useful during test :)
 
-#### Dev integration
+### Dev integration
 
 **Env**
 
